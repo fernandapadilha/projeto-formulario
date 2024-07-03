@@ -52,7 +52,7 @@
 
     <div>
       <label for="endereco">Endereço:</label>
-      <input type="text" id="endereco" v-model.number.lazy="endereço" />
+      <input type="text" id="endereco" v-model.number.lazy="endereco" />
     </div>
 
     <div>
